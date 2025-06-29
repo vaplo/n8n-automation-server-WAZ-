@@ -2,8 +2,8 @@
 FROM n8nio/n8n:latest
 
 # Métadonnées
-LABEL maintainer="votre-email@entreprise.com"
-LABEL description="Serveur d'automatisation n8n pour [votre entreprise]"
+LABEL maintainer="VAplove50@gmail.com"
+LABEL description="Serveur d'automatisation n8n pour [WAZ]"
 LABEL version="1.0"
 
 # Configuration utilisateur
