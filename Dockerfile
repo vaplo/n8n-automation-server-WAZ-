@@ -1,5 +1,6 @@
 # Dockerfile pour serveur n8n d'entreprise
-FROM n8nio/n8n:1.38.1
+FROM n8nio/n8n:1.103.2
+
 
 # Métadonnées
 LABEL maintainer="VAplove50@gmail.com"
