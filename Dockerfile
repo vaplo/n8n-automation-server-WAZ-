@@ -1,5 +1,5 @@
 # Dockerfile pour serveur n8n d'entreprise
-FROM n8nio/n8n:1.103.2
+FROM n8nio/n8n: v1.105.3.
 
 
 # Métadonnées
